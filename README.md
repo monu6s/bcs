@@ -1,0 +1,2 @@
+# bcs
+traing new project
